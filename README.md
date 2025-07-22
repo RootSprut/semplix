@@ -7,7 +7,7 @@ Mass sending of 2 types of complaints via email
 
 ## Requirements
 
-Linux OS
+Linux OS,
 swaks (will be installed automatically)
 
 ## Installation
