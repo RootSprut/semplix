@@ -12,10 +12,10 @@ swaks (will be installed automatically)
 
 ## Installation
 
-   bash
-git clone https://github.com/rootsprut/semplix.git
-cd Semplix
-chmod +x semplix.sh
+   bash:
+1. git clone https://github.com/rootsprut/semplix.git
+2. cd Semplix
+3. chmod +x semplix.sh
 
 ## Configuration
 1. Create accounts file:
@@ -26,7 +26,7 @@ nano ~/Desktop/accountsfsx.conf
 For example semplix@test.com:app_password
 
 ## Usage
-   bash
+   bash:
 ./semplix.sh
 
 ## Important notes
