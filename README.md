@@ -27,13 +27,13 @@ For example semplix@test.com:app_password
 
 ## Usage
    bash:
-./semplix.sh
+1. ./semplix.sh
 
 ## Important notes
 
-Use app password
+1. Use app password
 
-enable IMAP or SMTP
+2. enable IMAP or SMTP
 
 ## Disclaimer
 
